@@ -65,7 +65,7 @@
 ## 🚀 How to Use Brain Note
 
 ### **Step 1: Open the Application**
-Simply open `https://sumit42154.github.io/Brain-Note/` in your web browser to launch Brain Note.
+Simply open https://sumit42154.github.io/Brain-Note/ in your web browser to launch Brain Note.
 
 ### **Step 2: Set Your Timer**
 - Look for the **"Reset in (seconds):"** input field at the top
