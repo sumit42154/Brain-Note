@@ -1,0 +1,35 @@
+{
+  "name": "Brain Note - Quick Note Taking",
+  "short_name": "Brain Note",
+  "description": "A fast and efficient note-taking application for capturing your thoughts and ideas",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0d1c2d",
+  "background_color": "#051424",
+  "icons": [
+    {
+      "src": "./Image/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "shortcuts": [
+    {
+      "name": "Create New Note",
+      "short_name": "New Note",
+      "description": "Create a new note quickly",
+      "url": "./index.html?mode=new",
+      "icons": [
+        {
+          "src": "./Image/favicon.ico",
+          "sizes": "192x192",
+          "type": "image/x-icon"
+        }
+      ]
+    }
+  ]
+}
