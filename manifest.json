@@ -10,13 +10,16 @@
   "background_color": "#051424",
   "icons": [
     {
-      "src": "./Image/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "./Image/android-chrome-512x512.png",
+      "sizes": "512x512",
       "type": "image/x-icon",
       "purpose": "any"
     }
   ],
-  "categories": ["productivity", "utilities"],
+  "categories": [
+    "productivity",
+    "utilities"
+  ],
   "shortcuts": [
     {
       "name": "Create New Note",
@@ -25,8 +28,8 @@
       "url": "./index.html?mode=new",
       "icons": [
         {
-          "src": "./Image/android-chrome-192x192.png",
-          "sizes": "192x192",
+          "src": "./Image/android-chrome-512x512.png",
+          "sizes": "512x512",
           "type": "image/x-icon"
         }
       ]
