@@ -10,7 +10,7 @@
   "background_color": "#051424",
   "icons": [
     {
-      "src": "./Image/favicon.ico",
+      "src": "./Image/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/x-icon",
       "purpose": "any"
@@ -25,7 +25,7 @@
       "url": "./index.html?mode=new",
       "icons": [
         {
-          "src": "./Image/favicon.ico",
+          "src": "./Image/android-chrome-192x192.png",
           "sizes": "192x192",
           "type": "image/x-icon"
         }
