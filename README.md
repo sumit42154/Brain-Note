@@ -1,11 +1,5 @@
 # 🧠 Brain Note - Continuous Writing Challenge App
 
-A unique, mindfulness-based note-taking application designed to encourage **continuous, uninterrupted writing** and deep focus. If you stop typing, your written content disappears—a powerful mechanism to keep your mind engaged and flowing.
-
----
-
-## 🎯 Overview
-
 **Brain Note** is a productivity tool that combines the benefits of free-writing with the psychological principle of momentum. The app requires you to keep typing continuously. Once you pause for a set duration, all your notes are cleared, encouraging you to maintain your stream of consciousness and stay in a state of flow.
 
 ---
@@ -71,7 +65,7 @@ A unique, mindfulness-based note-taking application designed to encourage **cont
 ## 🚀 How to Use Brain Note
 
 ### **Step 1: Open the Application**
-Simply open `index.html` in your web browser to launch Brain Note.
+Simply open https://sumit42154.github.io/Brain-Note/ in your web browser to launch Brain Note.
 
 ### **Step 2: Set Your Timer**
 - Look for the **"Reset in (seconds):"** input field at the top
